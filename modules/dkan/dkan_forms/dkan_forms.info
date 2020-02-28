@@ -1,4 +1,0 @@
-name = DKAN Forms
-description = Creates and updates forms for DKAN.
-package = DKAN
-core = 7.x
